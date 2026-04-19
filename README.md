@@ -5,4 +5,4 @@ Este é um sistema de gestão escolar com IA que desenvolvi para automatizar pro
 
 [![Demonstração Rotina Viva](demo_rotina_viva.gif)](https://youtu.be/3QAkjsPqgK4)
 
-*Clique na imagem acima para ver o código completo do projeto.*
+*Clique na imagem acima para ver o vídeo completo do projeto.*
