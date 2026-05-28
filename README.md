@@ -1,4 +1,4 @@
-# Olá, Me chamo Leonardo Campos! 👋
+# Olá, me chamo Leonardo Campos! 👋
 
 ### Projeto em Destaque: Rotina Viva 🚀
 Este é um sistema de gestão escolar com IA que desenvolvi para automatizar processos pedagógicos.
